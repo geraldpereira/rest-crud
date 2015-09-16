@@ -1,0 +1,7 @@
+js/
+js-test/
+coverage/
+typings/
+.idea/
+node_modules/
+coverage/
